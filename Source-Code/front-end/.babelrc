@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    ["@babel/plugin-syntax-class-properties", { "loose": true }]
+  ],
+  "presets": [
+    "@babel/preset-react",
+    "@babel/preset-env"
+  ]
+  
+}
