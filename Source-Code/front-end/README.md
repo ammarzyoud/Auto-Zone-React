@@ -9,5 +9,6 @@ To run the project
     enter npm start
     
   open another command line in the front end folder
-    enter httphserver ./
+    enter http-server ./ 
+    --------------------------------------------------------------------------------------
     // this server is used to upload file like css & images ( etc ) from the local machine 
